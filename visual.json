@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {"id": "TIMER", "group": 0, "value": 3 },
+    {"id": "Materials", "group": 1, "value": 2 },
+    {"id": "Material substitution", "group": 2, "value": 1 },
+    {"id": "Level of detail", "group": 2, "value": 1 },
+    {"id": "Learning and lifetime ", "group": 2, "value": 1 },
+    {"id": "Demand modelling", "group": 1, "value": 2 },
+    {"id": "Stock modelling", "group": 2, "value": 1 },
+    {"id": "9Rs", "group": 2, "value": 1 },
+    {"id": "Balancing inflow and outflow", "group": 2, "value": 1 },
+    {"id": "Economic growth & economic modelling", "group": 1, "value": 2 },
+    {"id": "Trade and inter country dynamics", "group": 2, "value": 1 },
+    {"id": "Rebound", "group": 2, "value": 1 },
+    {"id": "Life cycle thinking", "group": 1, "value": 2 },
+    {"id": "Mining", "group": 2, "value": 1 },
+    {"id": "Lifestyle ", "group": 1, "value": 2 },
+    {"id": "Wellbeing", "group": 2, "value": 1 },
+    {"id": "Organic nutrients, agriculture, bio economy", "group": 1, "value": 2 },
+    {"id": "Policy modelling", "group": 1, "value": 2 },
+    {"id": "Recycling", "group": 1, "value": 2 }
+  ],
+  "links": [
+    {"source": "TIMER", "target": "Materials", "value": 1},
+    {"source": "TIMER", "target": "Demand modelling", "value": 1},
+    {"source": "TIMER", "target": "Economic growth & economic modelling", "value": 1},
+    {"source": "TIMER", "target": "Life cycle thinking", "value": 1},
+    {"source": "TIMER", "target": "Lifestyle ", "value": 1},
+    {"source": "TIMER", "target": "Organic nutrients, agriculture, bio economy", "value": 1},
+    {"source": "TIMER", "target": "Policy modelling", "value": 1},
+    {"source": "TIMER", "target": "Recycling", "value": 1},
+    {"source": "Materials", "target": "Material substitution", "value": 1},
+    {"source": "Materials", "target": "Level of detail", "value": 1},
+    {"source": "Materials", "target": "Learning and lifetime ", "value": 1},
+    {"source": "Demand modelling", "target": "Stock modelling", "value": 1},
+    {"source": "Demand modelling", "target": "9Rs", "value": 1},
+    {"source": "Demand modelling", "target": "Balancing inflow and outflow", "value": 1},
+    {"source": "Economic growth & economic modelling", "target": "Trade and inter country dynamics", "value": 1},
+    {"source": "Economic growth & economic modelling", "target": "Rebound", "value": 1},
+    {"source": "Life cycle thinking", "target": "Mining", "value": 1},
+    {"source": "Lifestyle ", "target": "Wellbeing", "value": 1}
+  ]
+}
