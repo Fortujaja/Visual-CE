@@ -20,6 +20,7 @@
     {"id": "Negative emissions", "group": 1, "value": 1 },
     {"id": "Embodied CO2", "group": 1, "value": 1 },
     {"id": "Policy modelling", "group": 2, "value": 3 },
+    {"id": "Resource tax", "group": 1, "value": 1 },
     {"id": "End of life", "group": 4, "value": 3 }
   ],
   "links": [
@@ -49,6 +50,7 @@
     {"source": "Agriculture and bio economy", "target": "Demand modelling", "value": 8},
     {"source": "Agriculture and bio economy", "target": "Negative emissions", "value": 5},
     {"source": "Agriculture and bio economy", "target": "Embodied CO2", "value": 5},
+    {"source": "Resource tax", "target": "Policy modelling", "value": 5},
     {"source": "Agriculture and bio economy", "target": "Lifestyle ", "value": 8}
   ]
 }
