@@ -17,7 +17,8 @@
     {"id": "Lifestyle ", "group": 2, "value": 3 },
     {"id": "Wellbeing", "group": 1, "value": 1 },
     {"id": "Agriculture and bio economy", "group": 3, "value": 3 },
-    {"id": "Embodied and negative emissions", "group": 1, "value": 1 },
+    {"id": "Negative emissions", "group": 1, "value": 1 },
+    {"id": "Embodied CO2", "group": 1, "value": 1 },
     {"id": "Policy modelling", "group": 2, "value": 3 },
     {"id": "End of life", "group": 4, "value": 3 }
   ],
@@ -46,7 +47,8 @@
     {"source": "Lifestyle ", "target": "Demand modelling", "value": 8},
     {"source": "Lifestyle ", "target": "Economic modelling", "value": 8},
     {"source": "Agriculture and bio economy", "target": "Demand modelling", "value": 8},
-    {"source": "Agriculture and bio economy", "target": "Embodied and negative emissions", "value": 5},
+    {"source": "Agriculture and bio economy", "target": "Negative emissions", "value": 5},
+    {"source": "Agriculture and bio economy", "target": "Embodied CO2", "value": 5},
     {"source": "Agriculture and bio economy", "target": "Lifestyle ", "value": 8}
   ]
 }
