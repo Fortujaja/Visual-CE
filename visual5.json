@@ -48,7 +48,7 @@
     {"source": "Agriculture and bio economy", "target": "Negative emissions", "value": 5},
     {"source": "Agriculture and bio economy", "target": "Embodied CO2", "value": 5},
     {"source": "Resource tax", "target": "Policy modelling", "value": 5},
-    {"source": "Consumer groups", "target": "Lifestyle", "value": 5},
+    {"source": "Consumer groups", "target": "Lifestyle ", "value": 5},
     {"source": "Agriculture and bio economy", "target": "Lifestyle ", "value": 8}
   ]
 }
