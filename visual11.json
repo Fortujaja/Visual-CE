@@ -36,7 +36,7 @@
     {"source": "Demand modelling", "target": "9Rs", "value": 5},
     {"source": "Economic modelling", "target": "Trade dynamics", "value": 5},
     {"source": "Economic modelling", "target": "Rebound", "value": 5},
-    {"source": "Policy modelling", "target": "Resource tax", "value": }
+    {"source": "Policy modelling", "target": "Resource tax", "value": 5}
     {"source": "Life cycle thinking", "target": "Mining", "value": 5},
     {"source": "Lifestyle", "target": "Wellbeing", "value": 5},
     {"source": "Lifestyle", "target": "Consumer groups", "value": 5},
