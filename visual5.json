@@ -22,6 +22,10 @@
     {"id": "Policy modelling", "group": 2, "value": 3 },
     {"id": "Resource tax", "group": 1, "value": 1 },
     {"id": "End of life", "group": 4, "value": 3 }
+    {"id": "High coverage", "group": 4, "value": 3 }
+    {"id": "Medium coverage", "group": 3, "value": 3 }
+    {"id": "Low coverage", "group": 2, "value": 3 }
+    {"id": "Sub theme", "group": 1, "value": 1 }
   ],
   "links": [
     {"source": "TIMER", "target": "Materials", "value": 10},
