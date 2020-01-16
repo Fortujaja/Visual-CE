@@ -20,10 +20,7 @@
     {"id": "Policy modelling", "group": 2, "value": 3 },
     {"id": "Resource tax", "group": 1, "value": 1 },
     {"id": "End of life", "group": 4, "value": 3 },
-    {"id": "High coverage", "group": 4, "value": 3 },
-    {"id": "Medium coverage", "group": 3, "value": 3 },
-    {"id": "Low coverage", "group": 2, "value": 3 },
-    {"id": "Sub theme", "group": 1, "value": 1 }
+    {"id": "Consumer groups", "group": 1, "value": 1 }
   ],
   "links": [
     {"source": "TIMER", "target": "Materials", "value": 10},
@@ -51,9 +48,7 @@
     {"source": "Agriculture and bio economy", "target": "Negative emissions", "value": 5},
     {"source": "Agriculture and bio economy", "target": "Embodied CO2", "value": 5},
     {"source": "Resource tax", "target": "Policy modelling", "value": 5},
-    {"source": "Medium coverage", "target": "High coverage", "value": 5},
-    {"source": "Medium coverage", "target": "Low coverage", "value": 5},
-    {"source": "Sub theme", "target": "Low coverage", "value": 5},
+    {"source": "Consumer groups", "target": "Lifestyle", "value": 5},
     {"source": "Agriculture and bio economy", "target": "Lifestyle ", "value": 8}
   ]
 }
