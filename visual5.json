@@ -53,6 +53,7 @@
     {"source": "Resource tax", "target": "Policy modelling", "value": 5},
     {"source": "Medium coverage", "target": "High coverage", "value": 5},
     {"source": "Medium coverage", "target": "Low coverage", "value": 5},
+    {"source": "Sub theme", "target": "Low coverage", "value": 5},
     {"source": "Agriculture and bio economy", "target": "Lifestyle ", "value": 8}
   ]
 }
